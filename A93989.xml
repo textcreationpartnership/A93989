@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and vvonderful news, or, The Full and true relation of the miraculous inspiration of Charles Bennet, born at Manchester in Lancashire vvho being but three years of age, speaks without the least instruction, English, Latine, Greek, and Hebrew ... : as also the account of his earnest desire to speak with His Majesty, the which  he effected ... Munday the 30th of June 1679 ... with many other circumstances most wonderful and strange to relate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93989</idno>
+            <idno type="STC">Wing S5871</idno>
+            <idno type="STC">ESTC R42897</idno>
+            <idno type="EEBO-CITATION">38875914</idno>
+            <idno type="OCLC">ocm 38875914</idno>
+            <idno type="VID">152426</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152426)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and vvonderful news, or, The Full and true relation of the miraculous inspiration of Charles Bennet, born at Manchester in Lancashire vvho being but three years of age, speaks without the least instruction, English, Latine, Greek, and Hebrew ... : as also the account of his earnest desire to speak with His Majesty, the which  he effected ... Munday the 30th of June 1679 ... with many other circumstances most wonderful and strange to relate.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the Year, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bennet, Charles, b. 1675 or 6.</term>
+               <term>Gifted children --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152426:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>Strange and VVonderful News: OR, The Full and True Relation OF THE MIRACULOUS INSPIRATION OF Charles Bennet; <hi>BORN AT</hi> Mancheſter in Lancaſhire: VVho being but THREE Years of Age, Speaks without the Leaſt Inſtruction: <hi>Engliſh, Latine, Greek,</hi> and <hi>Hebrew;</hi> ſo Perfect and Authentickly, the like thereof hath not been heard of in any Age.</p>
+            <p>Being now to be Seen &amp; Diſcourſed withal at the <hi>Bear</hi>-Inn in <hi>Weſt-Smithfield.</hi>
+            </p>
+            <p>
+               <hi>The Truth of which many Thouſand Credible Spectators can Atteſt: This Depo<g ref="char:EOLhyphen"/>nent being an Eye and Ear Witneſs to what is here Incerted.</hi>
+            </p>
+            <p>As alſo the Account of his <hi>Earneſt Deſire</hi> to Speak with HIS MAJESTY: The which he Effected, and ſome Words he Spake, on <hi>Munday</hi> the 30th. of <hi>June</hi> 1679. Being brought into the ROYAL PRESENCE.</p>
+            <p>With many other Circumſtances moſt Wonderful and Strange to Relate.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>F.F.</hi> in the Year, 1679.</p>
+            <pb facs="tcp:152426:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb facs="tcp:152426:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152426:3"/>
+            <!-- PDF PAGE 81 -->
+            <pb n="1" facs="tcp:152426:3"/>
+            <!-- PDF PAGE 81 -->
+            <head>Strange and VVonderful News, <hi>Or,</hi> The Miraculous Inſpiration of <hi>Charles Bennit,</hi> a Child of Three Years of Age, Born at <hi>Mancheſter</hi> in <hi>Lancaſhire,</hi> &amp;c.</head>
+            <p>STrange and Wonderful are the Works of <hi>God,</hi> in all that his Omnipotency deſigns, and when he pleaſes can declare it in the meaneſt Work his Hand has formed, as our Bleſſed Saviours Sacred <hi>Evangeliſt</hi> explains; and likewiſe <hi>David</hi> the Princely Prophet, <hi>That out of the Mouths of Babes and Sucklings, he has perfect<g ref="char:EOLhyphen"/>ed Praiſe;</hi> and can extoll the mighty power of his Eternal ſelf, as he himſelf ſhall think moſt fit, the which may in this proceeding Narrati<g ref="char:EOLhyphen"/>on be produced to all as followeth, and noted to after Ages, as a Wonder of the times, and Prophetically myſterious.</p>
+            <p>A Male Child about Three Years of Age, the Son of a <hi>Linnen-Weaver</hi> of <hi>Mancheſter</hi> in <hi>Lan<g ref="char:EOLhyphen"/>caſhire,</hi> namely <hi>Phillip Bennit,</hi> being a Man of mean Education and Fortune; his Son being born on or near the 17th. of <hi>June,</hi> in the year of Mans Redemption, 1676. and after was Chri<g ref="char:EOLhyphen"/>ſtened about the 28th. of the ſame month, re<g ref="char:EOLhyphen"/>ceiving
+<pb n="2" facs="tcp:152426:4"/>
+               <!-- PDF PAGE 82 -->in his Baptiſm the name of <hi>Charles;</hi> the Child growing and continuing in a good ſtate of bodily health, was often obſerved by his Pa<g ref="char:EOLhyphen"/>rents to be more ſerious and conſiderate then appertained to one of his age, many times mu<g ref="char:EOLhyphen"/>ſing, and ſeeming to deliberate with himſelf; the which at firſt they did not ſo fully regard, but after he could go alone, and began to ſpeak, (the which he exerciſed ſooner then uſual) ma<g ref="char:EOLhyphen"/>ny grave Sentences were obſerved to proceed from him; But the firſt Diſcovery of the pro<g ref="char:EOLhyphen"/>found Knowledge that for a long time had ab<g ref="char:EOLhyphen"/>ſconded in his Microcoſnick ſtructure, was a<g ref="char:EOLhyphen"/>bout a month or Six Weeks ſince: his Father af<g ref="char:EOLhyphen"/>ter Divine Service takeing a Bible, and reading a certain Chapter in one of the <hi>Evangeliſts,</hi> by accident, or through ignorance omitted, or pre<g ref="char:EOLhyphen"/>poſterouſly read a certain Verſe or Sentence: the Child aforeſaid being preſent, reproved him of his error, and told him there was no ſuch ſentence in the Scripture, or Word of God: at which his Father being in a conſternation, caſt<g ref="char:EOLhyphen"/>ing his eyes upon the Text where he had read, found himſelf miſtaken, whereupon he exami<g ref="char:EOLhyphen"/>ned him how he knew, having never ſeen nor known the Scriptures as to the Practick part: to
+<pb n="3" facs="tcp:152426:4"/>
+               <!-- PDF PAGE 82 -->whom the aforeſaid <hi>Charles</hi> moſt diſcreetly re<g ref="char:EOLhyphen"/>plyed; <hi>That he could, and in his conceit had often con<g ref="char:EOLhyphen"/>verſed therein, and if occaſion required, could Read them in</hi> Latine, Greek, <hi>and</hi> Hebrew. This raiſed the primal Character of the Child's more then ordinary perfection, ſent his fame abroad, ſo that many hundreds from Towns and Villages adjacent to the place of his Nativity, came flocking to take a view of him, and to diſcourſe in all the Tongues premiſſed, who did as freely Anſwer, to the great aſtoniſhment of all that heard: for many Miniſters and Learned Men were likewiſe curious to ſatisfie themſelves in the certainty hereof, and when they had beheld and found it true, they went away with admi<g ref="char:EOLhyphen"/>ration. After ſome time his Fame was noiſed in the great Metropolis of <hi>London,</hi> to which by the advice and perſwaſion of ſome of their Friends, his Parents brought him about Five days ſince; and coming up by the <hi>Warwick-ſhire</hi>-Carryer, they Inned or took up their lodging at the <hi>Bear</hi>-Inn in <hi>Weſt-ſmith-field:</hi> where no ſooner was the rumour of their being there ſpread abroad, but numbers flock'd to ſee a wonder they had heard of ſome time ſince: he being accompanied with his Parents in a very ſpacious Room on the left
+<pb n="4" facs="tcp:152426:5"/>
+               <!-- PDF PAGE 83 -->hand going into the Inn aforeſaid, where many Miniſters and others diſcourſed and queſtioned with him on <hi>Saturday</hi> the 28th. of which this Deponent was one who did both reaſon with him in <hi>Engliſh, Latine, Greek,</hi> and <hi>Hebrew;</hi> to which he <hi>ſoon</hi> anſwered, and rightly expounded and Interpret each Word a Sentence; the truth of which, this Deponent is ready to Juſtifie upon Oath if need requireth: Some of which Words I ſhall here (for the more perfect ſatis<g ref="char:EOLhyphen"/>faction of the Reader) Inſert, <hi>Imprimis,</hi> he was askt <hi>Latine, Greek,</hi> and <hi>Hebrew</hi> for a Man, to which he as readily Replyed, <hi>Vir, Inthropos, Addam;</hi> For a Woman, <hi>Mulier, Genue, Eveve;</hi> For Boy, <hi>Pueri,</hi> A Girl, <hi>Puella;</hi> his Fore-head, <hi>Fronte,,</hi> A Hat, <hi>Gallerus.</hi> As likewiſe many other words and Propoſitions, too tedious here to Inſert. His Parents take no Money at the Door, but are willing to accept the free Bene<g ref="char:EOLhyphen"/>volence of Gentlemen: The Child will not ac<g ref="char:EOLhyphen"/>cept any Gift, be it Money or any other Preſent; but if it be forced upon him, he will abſolutely refuſe and throw it away, ſhewing how little he regards ſuch tranſitory Traſh, the which is no ways permanent. The Child had, as his Parents report, an earneſt deſire many weeks
+<pb n="5" facs="tcp:152426:5"/>
+               <!-- PDF PAGE 83 -->before he came to <hi>London,</hi> to ſpeak with his Ma<g ref="char:EOLhyphen"/>jeſty, and that he had ſome buſineſs of Impor<g ref="char:EOLhyphen"/>tance to declare to his Sacred ſelf: the which they much Noted by his earneſt and often re<g ref="char:EOLhyphen"/>peating the ſame deſire, the which was, as ſome report, to ſpeak Three Words, and after the de<g ref="char:EOLhyphen"/>liverance of which, he Prophetically foretells his Diſſolution as to this life. In the ſpace of Nine days, but this is not certainly known, but ſure I am, that upon Notice of the ſaid Child's being in <hi>Smithfield,</hi> his Majeſty was graciouſly pleaſed to ſend for him to his royal Pallace of <hi>VVhite-Hall,</hi> on Munday the 30th. of this inſtant <hi>June,</hi> 79; who in a Coach waits His Majeſties good pleaſure: and as it is credibly reported, moſt fluently anſwered to ſeveral Queſtions, to the great admiration of all that were preſent; but what was there ſaid ii not as yet preciſely known. He reads Engliſh perfecter tden any Youth far above his Age, although never ſo well inſtructed.</p>
+            <p>The Truth of what I have here propoſed, can be witneſſed by many Thouſand Worthy Gentleman and Gentlewomen, many whoſe names I could here inſert if occaſion required: But for your further ſatisfaction, if you ſend to
+<pb n="6" facs="tcp:152426:6"/>
+               <!-- PDF PAGE 84 -->the <hi>Bare</hi> Inn as aforeſaid, you ſhall be fully in<g ref="char:EOLhyphen"/>formed of all theſe particulars, and a number more, the which would tire your patience to peruſe. As for the Stature of the ſaid <hi>Charles Bennet,</hi> he is not above two Foot and 3 Inches, being of a ruddy and aimable Complexion, full ey'd, with a ſharp and piercing ſight: Dark brown Hair, and round Viſaged, ſeeming very vehement in the delivery of his Speeches, with a manly voice, but ſomething thick in the deli<g ref="char:EOLhyphen"/>very of his words. His Parents were but mean People, getting their Livings by their daily la<g ref="char:EOLhyphen"/>bours and Imployments. This is no fallacy nor premeditated Inſtruction, taught by the device nor Art of men, for was it ſo, the Child could not be perfect in every croſs queſtion, the which amongſt the learnedeſt of men requires ſome deliberation; then what can we imagine leſs then that thoſe parts and early Docilities, pro<g ref="char:EOLhyphen"/>ceeded by Divine Inſpiration: and who can tell what Myſteries <hi>Omnipotence</hi> may veile that tender Form, the which in time may ſhine more perfect to the World, till when let us admire, and with the Prophet ſay, <hi>It is the Lords doing and is Marvelous in our Eyes,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152426:6"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </body>
+   </text>
+</TEI>
